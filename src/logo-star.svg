@@ -114,6 +114,7 @@
        id="path6906"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccc" />
+	   <animateMotion dur="10s" values="0,0; 450,0; 200,150; 0,0" repeatCount="indefinite" />
   </g>
   <g
      inkscape:label="Form"
@@ -135,5 +136,6 @@
        d="m 121.74274,122.992 5.68869,37.03566 -34.132124,-27.56142 z"
        id="path3733"
        inkscape:connector-curvature="0" />
+	   <animateMotion dur="10s" values="0,0; 450,0; 200,150; 0,0" repeatCount="indefinite" />
   </g>
 </svg>
